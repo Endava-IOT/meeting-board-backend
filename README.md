@@ -13,7 +13,7 @@ For this application to work you need NodeJS, please use NVM!
 
 ### Prerequisites
 
-You can run this application in any OS, it just need NodeJS and MongoDB to start.
+You can run this application in any OS, it just need NodeJS and Typescript to start.
 
 ### Installing
 
